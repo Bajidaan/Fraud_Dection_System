@@ -1,0 +1,16 @@
+2024-03-12 15:05,150.25,user1,serviceA
+2024-03-12 15:20,200.50,user1,serviceB
+2024-03-12 15:21,300.75,user1,serviceC
+2024-03-12 15:22,450.90,user1,serviceE
+2024-03-12 15:23,600.30,user1,serviceE
+2024-03-12 00:00,100.20,user2,serviceC
+2024-03-12 20:05,250.80,user2,serviceB
+2024-03-12 20:10,500.45,user2,serviceC
+2024-03-12 20:11,700.60,user2,serviceD
+2024-03-12 20:23,900.75,user2,serviceE
+2024-03-12 00:00,50.10,user3,serviceA
+2024-03-12 15:00,100.25,user3,serviceB
+2024-03-12 15:24,200.0,user1,serviceA
+2024-03-12 15:24,150.0,user1,serviceA
+2024-03-12 20:24,45000.0,user2,serviceB
+2024-03-12 15:24,200.0,user1,serviceA
